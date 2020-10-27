@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj": {}
+    "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\WebApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj": {
+    "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\WebApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\WebApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj",
         "projectName": "ApiCore27102020",
-        "projectPath": "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj",
+        "projectPath": "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\WebApiCore27102020\\ApiCore27102020\\ApiCore27102020.csproj",
         "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\ApiCore27102020\\obj\\",
+        "outputPath": "C:\\Users\\johan\\source\\repos\\ApiCore27102020\\WebApiCore27102020\\ApiCore27102020\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

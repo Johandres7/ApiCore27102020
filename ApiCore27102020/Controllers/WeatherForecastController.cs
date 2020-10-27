@@ -35,5 +35,12 @@ namespace ApiCore27102020.Controllers
             })
             .ToArray();
         }
+
+        [HttpPost]
+        public string Saludo(string nombre)
+        {
+            string Nombre = "Hola como estas " + nombre;
+            return Nombre;
+        }
     }
 }
